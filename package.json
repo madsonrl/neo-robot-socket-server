@@ -1,0 +1,11 @@
+{
+  "name": "neo-socket-server",
+  "version": "1.0.0",
+  "description": "Socket server for neo robot",
+  "main": "index.js",
+  "author": "Madson Lemos",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
